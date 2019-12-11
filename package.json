@@ -1,21 +1,37 @@
 {
   "name": "@eliasnorrby/jest-config",
   "version": "0.0.0-development",
-  "description": "",
+  "description": "Jest config for TypeScript",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js",
+    "setup.js"
+  ],
+  "bin": "setup.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "tsc",
     "semantic-release": "semantic-release",
     "check-format": "prettier --list-different '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'"
   },
+  "keywords": [
+    "config",
+    "jest",
+    "test",
+    "typescript"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/eliasnorrby/jest-config.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Elias Norrby",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/eliasnorrby/jest-config/issues"
   },
@@ -25,12 +41,12 @@
     "@eliasnorrby/commitlint-config": "^2.2.2",
     "@eliasnorrby/prettier-config": "^2.4.3",
     "@eliasnorrby/semantic-release-config": "^2.1.3",
+    "@types/node": "^12.12.17",
+    "@types/yargs": "^13.0.3",
     "husky": "^3.1.0",
     "prettier": "^1.19.1",
-    "semantic-release": "^15.13.31"
-  },
-  "publishConfig": {
-    "access": "public"
+    "semantic-release": "^15.13.31",
+    "typescript": "^3.7.3"
   },
   "husky": {
     "hooks": {

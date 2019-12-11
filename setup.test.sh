@@ -68,7 +68,7 @@ function help_test {
   npx $ORIG_DIR --help | grep "Usage"
 }
 
-# install_test
+install_test
 
 no_install_test
 

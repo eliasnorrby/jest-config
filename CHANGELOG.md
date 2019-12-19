@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/eliasnorrby/jest-config/compare/v1.1.1...v1.1.2) (2019-12-19)
+
+
+### Bug Fixes
+
+* exit consistently (use log.ok) ([89489e4](https://github.com/eliasnorrby/jest-config/commit/89489e467301aa7b985dead395d1184dcf81a2f9))
+
 ## [1.1.1](https://github.com/eliasnorrby/jest-config/compare/v1.1.0...v1.1.1) (2019-12-19)
 
 

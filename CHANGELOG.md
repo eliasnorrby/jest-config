@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/eliasnorrby/jest-config/compare/v1.0.1...v1.1.0) (2019-12-19)
+
+
+### Features
+
+* add spinner and silence output ([41dac93](https://github.com/eliasnorrby/jest-config/commit/41dac935fb5ced4e1cd08564ccf570090482d33f))
+* use @eliasnorrby/log-util during setup ([1b113be](https://github.com/eliasnorrby/jest-config/commit/1b113be31ddff9040a26439dd4f1dbc919404b25))
+
 ## [1.0.1](https://github.com/eliasnorrby/jest-config/compare/v1.0.0...v1.0.1) (2019-12-13)
 
 

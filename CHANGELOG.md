@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/eliasnorrby/jest-config/compare/v1.1.0...v1.1.1) (2019-12-19)
+
+
+### Bug Fixes
+
+* wrap installs in try/catch blocks ([e681cd0](https://github.com/eliasnorrby/jest-config/commit/e681cd0adc2ac61c3f024a2da63f1aa71c03709d))
+
 # [1.1.0](https://github.com/eliasnorrby/jest-config/compare/v1.0.1...v1.1.0) (2019-12-19)
 
 

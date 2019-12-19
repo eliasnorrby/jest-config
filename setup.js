@@ -107,5 +107,5 @@ const runCommand = async cmd => {
     log.skip("Skipping install of self");
   }
 
-  log.info("Done!");
+  log.ok("Done!");
 })();

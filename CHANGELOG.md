@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/eliasnorrby/jest-config/compare/v1.1.3...v1.1.4) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump acorn from 5.7.3 to 5.7.4 ([546252a](https://github.com/eliasnorrby/jest-config/commit/546252a2f3fbfa5733d8330482b2d7f0577f83c1))
+
 ## [1.1.3](https://github.com/eliasnorrby/jest-config/compare/v1.1.2...v1.1.3) (2020-01-07)
 
 

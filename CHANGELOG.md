@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/eliasnorrby/jest-config/compare/v1.1.6...v1.1.7) (2020-03-17)
+
+
+### Bug Fixes
+
+* **deps:** bump yargs from 15.3.0 to 15.3.1 ([5d7e4ba](https://github.com/eliasnorrby/jest-config/commit/5d7e4badc0f2381ebadb30a20eb232a51ec3b0a4))
+
 ## [1.1.6](https://github.com/eliasnorrby/jest-config/compare/v1.1.5...v1.1.6) (2020-03-16)
 
 

@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/eliasnorrby/jest-config/compare/v1.1.7...v2.0.0) (2020-03-30)
+
+
+### chore
+
+* **deps-dev:** bump jest dependencies ([0768843](https://github.com/eliasnorrby/jest-config/commit/07688436abb75e69baa922d258071cd8b7baad44))
+
+
+### BREAKING CHANGES
+
+* **deps-dev:** Major versions of peer dependencies bumped.
+
 ## [1.1.7](https://github.com/eliasnorrby/jest-config/compare/v1.1.6...v1.1.7) (2020-03-17)
 
 

@@ -9,8 +9,5 @@
     "checkJs": true,
     "moduleResolution": "Node",
     "esModuleInterop": true
-  },
-  "include": [
-    "src/**/*"
-  ]
+  }
 }

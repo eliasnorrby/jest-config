@@ -26,8 +26,8 @@ function setup {
 function setup_jest_test {
   npm i -D $DEV_DEPS typescript
   mkdir src
-  cp $ORIG_DIR/tsconfig.json .
-  cp -r $ORIG_DIR/__tests__ src
+  cp $ORIG_DIR/fixtures/tsconfig.json .
+  cp -r $ORIG_DIR/fixtures/__tests__ src
 }
 
 function common_test {

@@ -41,20 +41,20 @@
     "@eliasnorrby/commitlint-config": "*",
     "@eliasnorrby/prettier-config": "*",
     "@eliasnorrby/semantic-release-config": "*",
-    "@types/jest": "^24.0.23",
+    "@types/jest": "^25.1.4",
     "@types/node": "^13.1.0",
     "@types/yargs": "^15.0.0",
     "husky": "^4.0.10",
-    "jest": "^24.9.0",
+    "jest": "^25.2.4",
     "prettier": "^1.19.1",
     "semantic-release": "^17.0.4",
-    "ts-jest": "^24.2.0",
+    "ts-jest": "^25.3.0",
     "typescript": "^3.7.3"
   },
   "peerDependencies": {
-    "@types/jest": "24.x",
-    "jest": "24.x",
-    "ts-jest": "24.x"
+    "@types/jest": "25.x",
+    "jest": "25.x",
+    "ts-jest": "25.x"
   },
   "dependencies": {
     "@eliasnorrby/log-util": "^1.1.0",

@@ -38,9 +38,9 @@
   "homepage": "https://github.com/eliasnorrby/jest-config#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
-    "@eliasnorrby/commitlint-config": "*",
-    "@eliasnorrby/prettier-config": "*",
-    "@eliasnorrby/semantic-release-config": "*",
+    "@eliasnorrby/commitlint-config": "^2.3.8",
+    "@eliasnorrby/prettier-config": "^3.0.3",
+    "@eliasnorrby/semantic-release-config": "^3.0.0",
     "@types/jest": "^25.1.4",
     "@types/node": "^13.1.0",
     "@types/yargs": "^15.0.0",

@@ -41,15 +41,15 @@ and add the configuration to `jest.config.js`.
 ### `jest.config.js`
 
 ```js
-module.exports = require("@eliasnorrby/jest-config");
+module.exports = require('@eliasnorrby/jest-config')
 ```
 
 # Overriding settings
 
 ```js
 module.exports = {
-  ...require("@eliasnorrby/jest-config"),
+  ...require('@eliasnorrby/jest-config'),
   // Add options here
-  roots: ["."],
-};
+  roots: ['.'],
+}
 ```

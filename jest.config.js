@@ -1,5 +1,5 @@
 module.exports = {
-  ...require("./index.js"),
+  ...require('./index.js'),
   // Add options here
-  roots: ["."],
-};
+  roots: ['.'],
+}

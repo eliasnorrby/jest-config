@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/eliasnorrby/jest-config/compare/v2.0.2...v2.0.3) (2020-05-11)
+
+
+### Bug Fixes
+
+* **deps:** bump execa from 4.0.0 to 4.0.1 ([9f4aedc](https://github.com/eliasnorrby/jest-config/commit/9f4aedcac558fb23dd23b22aec9805b88d65effc))
+
 ## [2.0.2](https://github.com/eliasnorrby/jest-config/compare/v2.0.1...v2.0.2) (2020-04-22)
 
 

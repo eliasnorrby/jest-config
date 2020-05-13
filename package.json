@@ -42,7 +42,7 @@
     "@eliasnorrby/prettier-config": "^4.0.0",
     "@eliasnorrby/semantic-release-config": "^3.0.0",
     "@types/jest": "^25.1.4",
-    "@types/node": "^13.1.0",
+    "@types/node": "^14.0.1",
     "@types/yargs": "^15.0.0",
     "husky": "^4.0.10",
     "jest": "^25.2.4",

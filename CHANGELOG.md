@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/eliasnorrby/jest-config/compare/v2.0.5...v2.0.6) (2020-07-07)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm from 6.14.5 to 6.14.6 ([96ea8da](https://github.com/eliasnorrby/jest-config/commit/96ea8da653f49c84ebf893ac5fc86ede03ff7116))
+
 ## [2.0.5](https://github.com/eliasnorrby/jest-config/compare/v2.0.4...v2.0.5) (2020-06-11)
 
 

@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/eliasnorrby/jest-config/compare/v2.0.6...v2.0.7) (2020-07-07)
+
+
+### Bug Fixes
+
+* **deps:** bump yargs from 15.3.1 to 15.4.0 ([8ae0f5f](https://github.com/eliasnorrby/jest-config/commit/8ae0f5f945f1f7ca3503db0dce7fca2e03c85297))
+
 ## [2.0.6](https://github.com/eliasnorrby/jest-config/compare/v2.0.5...v2.0.6) (2020-07-07)
 
 

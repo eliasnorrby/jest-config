@@ -1,3 +1,11 @@
+## [2.0.8](https://github.com/eliasnorrby/jest-config/compare/v2.0.7...v2.0.8) (2020-07-08)
+
+
+### Bug Fixes
+
+* **deps:** bump @eliasnorrby/log-util from 1.1.3 to 1.1.4 ([bc2542f](https://github.com/eliasnorrby/jest-config/commit/bc2542f787c0ea232c2331aeeb52b79e3d4dfcc4))
+* **deps:** bump execa from 4.0.2 to 4.0.3 ([de1c83f](https://github.com/eliasnorrby/jest-config/commit/de1c83f466ce764c9806fb02a506a5fe52d36f3c))
+
 ## [2.0.7](https://github.com/eliasnorrby/jest-config/compare/v2.0.6...v2.0.7) (2020-07-07)
 
 

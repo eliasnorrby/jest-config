@@ -1,6 +1,6 @@
 {
   "name": "@eliasnorrby/jest-config",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "Jest config for TypeScript",
   "publishConfig": {
     "access": "public"

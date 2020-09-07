@@ -1,3 +1,10 @@
+## [2.0.12](https://github.com/eliasnorrby/jest-config/compare/v2.0.11...v2.0.12) (2020-09-07)
+
+
+### Bug Fixes
+
+* **deps:** bump ora from 5.0.0 to 5.1.0 ([4ba75c5](https://github.com/eliasnorrby/jest-config/commit/4ba75c5cfadbefc55f0afa59b7365814fdce7478))
+
 ## [2.0.11](https://github.com/eliasnorrby/jest-config/compare/v2.0.10...v2.0.11) (2020-08-12)
 
 

@@ -1,3 +1,10 @@
+## [2.0.13](https://github.com/eliasnorrby/jest-config/compare/v2.0.12...v2.0.13) (2020-09-11)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump node-fetch from 2.6.0 to 2.6.1 ([cbd78aa](https://github.com/eliasnorrby/jest-config/commit/cbd78aa5fb0829158e5689a49f3241f267056ba6))
+
 ## [2.0.12](https://github.com/eliasnorrby/jest-config/compare/v2.0.11...v2.0.12) (2020-09-07)
 
 

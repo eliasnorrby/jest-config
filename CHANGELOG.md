@@ -1,3 +1,10 @@
+## [2.0.14](https://github.com/eliasnorrby/jest-config/compare/v2.0.13...v2.0.14) (2020-09-12)
+
+
+### Bug Fixes
+
+* **deps:** bump @eliasnorrby/log-util from 1.1.4 to 1.1.5 ([7f7835f](https://github.com/eliasnorrby/jest-config/commit/7f7835ffc1b9e3aea57da76994fcbc9dbd07fdf8))
+
 ## [2.0.13](https://github.com/eliasnorrby/jest-config/compare/v2.0.12...v2.0.13) (2020-09-11)
 
 

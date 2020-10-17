@@ -1,3 +1,11 @@
+## [2.0.16](https://github.com/eliasnorrby/jest-config/compare/v2.0.15...v2.0.16) (2020-10-17)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump lodash from 4.17.15 to 4.17.20 ([824b142](https://github.com/eliasnorrby/jest-config/commit/824b142d5c7d965003ba2160a2af583da346e5c3))
+* **deps:** [security] bump npm-user-validate from 1.0.0 to 1.0.1 ([fc9a461](https://github.com/eliasnorrby/jest-config/commit/fc9a46199d813e4931a5cbaa39e7711595daec76))
+
 ## [2.0.15](https://github.com/eliasnorrby/jest-config/compare/v2.0.14...v2.0.15) (2020-10-01)
 
 

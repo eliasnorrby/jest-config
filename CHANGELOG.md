@@ -1,3 +1,10 @@
+## [2.0.19](https://github.com/eliasnorrby/jest-config/compare/v2.0.18...v2.0.19) (2020-10-30)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm-user-validate from 1.0.0 to 1.0.1 ([21653c0](https://github.com/eliasnorrby/jest-config/commit/21653c04e40f6819769079d59613b21b0da6598a))
+
 ## [2.0.18](https://github.com/eliasnorrby/jest-config/compare/v2.0.17...v2.0.18) (2020-10-23)
 
 

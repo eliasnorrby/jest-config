@@ -1,3 +1,10 @@
+## [2.0.21](https://github.com/eliasnorrby/jest-config/compare/v2.0.20...v2.0.21) (2020-11-16)
+
+
+### Bug Fixes
+
+* **deps:** bump yargs from 16.1.0 to 16.1.1 ([a36c827](https://github.com/eliasnorrby/jest-config/commit/a36c8273a5902739ac8747a6826a1ef4df943cd9))
+
 ## [2.0.20](https://github.com/eliasnorrby/jest-config/compare/v2.0.19...v2.0.20) (2020-11-02)
 
 
